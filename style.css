@@ -1,0 +1,31 @@
+#title{
+  color:black;
+  text-align:center;
+  font-size:50px;
+}
+body{
+  background:#a0a0a0;
+}
+.list{
+  font-size:20px;
+  display:flex;
+}
+.smaller-image{
+  margin:50px 20px 10px 40px;
+  width:200px;
+}
+.price{
+  margin:10px 40px;
+}
+.add{
+  margin:10px 40px;
+}
+.name{
+   margin:10px 40px;
+}
+#my_cart{
+  width:500px;
+  margin:20px 20px;
+}
+
+
